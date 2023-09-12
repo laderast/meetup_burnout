@@ -1,0 +1,165 @@
+---
+title: "old"
+format: html
+editor: visual
+---## Who are You?
+
+- Meetup Organizer
+    - Student just starting out
+- Meetup Participant
+- Meetup co-advisor
+
+## What is (Meetup) Burnout?
+
+- Lack of Motivation and Dread 
+    - ("Oh crap! I need to organize next month's meetup")
+- Cynicism 
+    - ("This isn't helping anyone")
+- Detachment 
+    - ("I'm the only one keeping the meetup afloat")
+- Sense of Failure 
+    - ("I'm not doing enough")
+
+# It's OK; You're Doing Enough
+
+
+# Visualize what your meetup could be
+
+## A vital meetup
+
+- Don't have to worry about it all the time
+- Others contribute and share
+- Discussions are normalized and plentiful
+
+## Tiny Wins / Activities
+
+- Video Watch (online with chat)
+- Tidyverse function of the week
+
+
+# Don't Shoulder Too Much Responsibility
+
+> "" - Gregor Samsa, Metamorphosis
+
+# Give Up Control / Stop Perfectionism
+
+- Whatever you have is good enough
+
+# Against Perfectionism / High Standards
+
+- Most meetup members just want to chat
+- Provide guardrails for interaction
+- Make it safe to contribute
+
+## Make your meetup into a community
+
+- 1. Start Small and Grow
+- 1. Find a Buddy
+- 1. Go easy on yourself
+- 1. Model Vulnerability / Ask for Help
+- 1. Make it fun and safe to contribute
+- 1. Use lightweight activities
+- 1. Partner up with other Meetups
+
+# Would your organization survive without you?
+
+- Is there a critical mass?
+- Do you welcome newcomers?
+- Do you have a Code of Conduct?
+
+# Don't do too much
+
+- Let the community help
+
+
+# It's Dangerous to Organize Alone
+
+## Have a Group of Co-Organizers
+
+- Spread responsiblities
+- Check in with each other
+
+## Make Templates and Onboard Co-organizers
+
+- Empower others to organize events
+- Communication Plan
+- Define Roles and Duties
+- Code of Conduct
+- Have an onboarding manual/onboarding session
+
+
+# Everyone Wants to Contribute
+
+## Levels of Engagement
+
+![](CSCCE_CPM_Final_with-logo-01-1536x1002.jpg)
+<https://www.cscce.org/resources/cpm/>
+
+## Make it Easy to Contribute
+
+- Include multiple ways to communicate
+  - Shared Docs
+  - Chat
+- Share frustrations and knowledge
+  
+## Keep members safe
+
+- Make it safe to ask questions
+- Moderate and take the CoC seriously
+- Use waiting rooms
+- Require name matching
+- Ban members if necessary
+
+# Activities
+
+## aggRegate
+
+- Intimate gathering where people discuss issues
+- Everyone tries to help
+- Group Notes
+
+## Watching Videos Together
+
+- Watching [gt]() video together
+
+
+## Doing Workshops
+
+- [Gradual Introduction to Shiny]()
+- [QPRC Tidyverse Workshop]()
+
+
+## Lightning Talks
+
+- Have a theme
+  - Shiny
+- Provide templates
+  - Tidyverse function of the week
+
+
+## Guest Speakers
+
+- Meet with them beforehand
+- Provide support at time of talk
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
