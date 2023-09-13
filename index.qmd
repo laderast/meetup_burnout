@@ -1,62 +1,33 @@
 ---
-title: "Data Science Organizer Burnout"
-author: "Ted Laderas"
-format: revealjs
-incremental: true
+title: "Meetup Burnout: Slides and Resources"
+format: html
 ---
 
-# Join the Conversation on Slido!
-## Who Am I {background-image="images/whoami.png"}
-## {background-image="images/covid.png"}
-## Isolation {background-image="images/isolation.png"}
-## Burnout Happened {background-image="images/burnout.png" }
-## Questions  {background-image="images/questions.png" }
-## What is Possible? {background-image="images/sustainable_.png" }
-## Fighting Burnout {background-image="images/formula.png" }
-## For Python Users {background-image="images/formulapython.png" }
-## {background-image="images/part1title.png" }
-## Stop Negative Self-Talk {background-image="images/negativetalk.png" }
-## What Instead? {background-image="images/positivetalk.png" }
-## You come first {background-image="images/dontplease.png" }
-## Vulnerability {background-image="images/vulnerability.png" }
-## 
+This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It consists of the slides, but also the articles
 
-![](images/grant.jpeg)
-
-## {background-image="images/part2title.png" }
-## A Core Group {background-image="images/acoregroup.png" }
-## Don't Organize Alone! {background-image="images/dontorganizealone.png" }
-## Supporting Each Other {background-image="images/supporteachother.png" }
-## Recruiting {background-image="images/recruiting.png" }
-## Talk About Values {background-image="images/values.png" }
-## Support from Your Boss {background-image="images/bosssupport.png" }
-## {background-image="images/part3title.png" }
-## Word of Mouth {background-image="images/wordofmouth.png" }
-## Make it Safe for Everyone {background-image="images/makeitsafe.png" }
-## Make it Easy to Contribute {background-image="images/makeiteasy.png" }
-## Lightning Talks! {background-image="images/lightning.png" }
-## Help Each Other! {background-image="images/aggregate.png" }
-## Sustainable {background-image="images/vision.png" }
-## Join the Conversation! 
+## Slides
 
 
-## Tidy Tuesday / Data Scavenger Hunt
+## Articles
 
-- Pick a shared dataset and explore together
-- Have each member have a research question
-- Spend time generating quick graphics
-
-# Important Organizations/Models
-
-- R for Data Science Community
-- (CSCCE) Center for Scientific Collaboration and Community Engagement 
-    - [Community Participation Model](https://zenodo.org/record/3997802#.X0Ujg5NKh24) 
-    - [Being a Scientific Community Manager](https://www.cscce.org/resources/being-a-scientific-community-manager/)
-- [rOpenSci Contributor Guidelines](https://ropensci.org/blog/2022/09/13/contributing-ropensci/)
-- [R Ladies Organization Guide](https://guide.rladies.org/)
-- [Data Science Community Builders](https://colorado.posit.co/rsc/ds-community-builder/receive-recognition.html)
+- [Burnout Article Part 1: Self Care](/part1/)
+- [Burnout Article Part 2: Recruiting Allies and Sponsors](/part2/)
+- [Burnout Article Part 3: Make your meetup welcoming](/part3/)
 
 
-# Let's Network and Help Each Other!
+## Acknowledgements
 
-https://www.linkedin.com/posts/rossturk_if-you-want-a-robust-community-make-sure-activity-7099823227295686657-P08B?utm_source=share&utm_medium=member_desktop
+If you are a meetup organizer, I salute you. It is hard work.
+
+Special Thanks to:
+
+- Julia Stewart-Lowndes
+- Kate Hertweck
+- Libby Heeren
+- Yanina Saibene
+- Rachael Dempsey
+- Donald Szlosek
+- Jon Harmon
+- Priyanka Gagneja
+- Natalia Andriychuk
+- Marcos Huerta
