@@ -73,6 +73,7 @@ Thanks so much to the following data science organizers for talking with me abou
 - Yanina Saibene
 - Rachael Dempsey
 - Donald Szlosek
+- Jon Harmon
 - Priyanka Gagneja
 - Natalia Andriychuk
 - Marcos Huerta
