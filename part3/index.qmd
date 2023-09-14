@@ -7,7 +7,7 @@ In our last two sections, we started thinking about making our meetup sustainabl
 
 ## Grow by Word of Mouth
 
-By establishing our core group, we started small. Now your group 
+By establishing our core group, we started small. Now your group will grow. How does it do this? By positive word of mouth. Invite a couple people to start out with.
 
 ## Aim for Pyschological Safety
 
@@ -22,6 +22,6 @@ But you also need to positively model the values you established as a core group
 - Beginner Friendly
 - Have Fun with Data
 
-
-
 If you're lucky, by establishing tone, you will actually define the norms for the group, which is the case for groups like R for Data Science. What once seemed artificial will become the norm for the group. 
+
+## Co-working and Co-learning
