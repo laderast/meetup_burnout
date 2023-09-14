@@ -3,7 +3,7 @@ title: "Meetup Burnout: Slides and Resources"
 format: html
 ---
 
-This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It consists of the slides, but also the articles
+This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It consists of the slides, but also the articles.
 
 ## Slides
 
@@ -14,6 +14,28 @@ This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It co
 - [Burnout Article Part 1: Self Care](/part1/)
 - [Burnout Article Part 2: Recruiting Allies and Sponsors](/part2/)
 - [Burnout Article Part 3: Make your meetup welcoming](/part3/)
+
+## Important Resources: Make it Welcoming
+
+- [R for Data Science Community](https://r4ds.slack.com)
+- (CSCCE) Center for Scientific Collaboration and Community Engagement 
+    - [Community Participation Model](https://zenodo.org/record/3997802#.X0Ujg5NKh24) 
+    - [Being a Scientific Community Manager](https://www.cscce.org/resources/being-a-scientific-community-manager/)
+- [rOpenSci Contributor Guidelines](https://ropensci.org/blog/2022/09/13/contributing-ropensci/)
+- [R Ladies Organization Guide](https://guide.rladies.org/)
+- [Data Science Community Builders](https://colorado.posit.co/rsc/ds-community-builder/receive-recognition.html)
+
+## Data Science Activities
+
+### aggRegate
+
+
+### Data Scavenger Hunts
+
+
+### Watching Videos Together
+
+### A Tidyverse Function I Love
 
 
 ## Acknowledgements
