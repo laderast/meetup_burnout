@@ -4,6 +4,7 @@ author: "Ted Laderas"
 format: 
   revealjs:
     embed-resources: true
+    footer: https://bit.ly/meet-burn
 incremental: true
 ---
 
