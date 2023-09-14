@@ -1,5 +1,5 @@
 ---
-title: "Data Science Organizer Burnout Part 1" 
+title: "Part 1" 
 subtitle: "Self Care"
 ---
 
@@ -111,6 +111,7 @@ Thanks so much to the following data science organizers for talking with me abou
 - Rachael Dempsey
 - Jon Harmon
 - Donald Szlosek
+- Eric Nantz
 - Priyanka Gagneja
 - Natalia Andriychuk
 - Marcos Huerta

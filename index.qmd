@@ -7,6 +7,7 @@ This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It co
 
 ## Slides
 
+[Slides](/talk/){.btn .btn-primary role="button"}
 
 ## Articles
 
@@ -28,6 +29,7 @@ Special Thanks to:
 - Rachael Dempsey
 - Donald Szlosek
 - Jon Harmon
+- Eric Nantz
 - Priyanka Gagneja
 - Natalia Andriychuk
 - Marcos Huerta

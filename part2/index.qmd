@@ -1,5 +1,5 @@
 ---
-title: "Data Science Organizer Burnout Part 2"
+title: "Part 2"
 subtitle: "Finding Allies and Sponsors"
 ---
 
