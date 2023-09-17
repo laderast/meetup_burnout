@@ -48,3 +48,5 @@ Share your Burnout or Meetup Story on Slido
 ## {background-image="images/acknowledge.png" }
 ## Join the Conversation! {background-image="images/question.png" }
 
+![](images/bit.ly_meet-burn.png){.absolute top=150 left=715 width="400" height="400"}
+

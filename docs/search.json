@@ -375,7 +375,7 @@
     "href": "talk/index.html#join-the-conversation-1",
     "title": "Data Science Organizer Burnout",
     "section": "Join the Conversation!",
-    "text": "Join the Conversation!\n\n\nhttps://bit.ly/meet-burn"
+    "text": "Join the Conversation!\n\n\n\nhttps://bit.ly/meet-burn"
   },
   {
     "objectID": "part3/index.html",
@@ -403,14 +403,14 @@
     "href": "part3/index.html#welcoming-values-code-of-conduct",
     "title": "Part 3",
     "section": "Welcoming = Values + Code of Conduct",
-    "text": "Welcoming = Values + Code of Conduct\nIn order to be psychologically safe, your meetup should have a code of conduct. You don’t need to write one from scratch; the R-Ladies Code of Conduct is a great place to start. Codes of conduct are extremely important, because they define what is unacceptable behavior at a meetup. That’s the negative side.\nBut you also need to positively model the values you established as a core group in Part 2. Being conscious of these values is incredibly important, as they set the positive tone for the group. Some of the values of PDX-R are:\n\nLearn Together\nBeginner Friendly\nHave Fun with Data\n\nIf you’re lucky, by establishing tone, you will actually define the norms for the group, which is the case for groups like R for Data Science. What once seemed artificial will become the norm for the group."
+    "text": "Welcoming = Values + Code of Conduct\nIn order to be psychologically safe, your meetup should have a code of conduct. You don’t need to write one from scratch; the R-Ladies Code of Conduct is a great place to start. Codes of conduct are extremely important, because they define what is unacceptable behavior at a meetup. That’s the negative side.\nA code of conduct is not enough. You also need to positively model the values you established as a core group in Part 2. Being conscious of these values is incredibly important, as they set the positive tone for the group. Some of the values of PDX-R are:\n\nLearn Together\nBeginner Friendly\nHave Fun with Data\n\nBy establishing the tone of your meetup, you will actually define the norms for the group, which is the case for groups like R for Data Science. What once seemed artificial will become the norm for the group. But it helps to tactfully remind people of these values early on (“We don’t say just”, “We want to be welcoming of others”)."
   },
   {
     "objectID": "part3/index.html#co-working-and-co-learning",
     "href": "part3/index.html#co-working-and-co-learning",
     "title": "Part 3",
     "section": "Co-working and Co-learning",
-    "text": "Co-working and Co-learning"
+    "text": "Co-working and Co-learning\n\naggRegate"
   },
   {
     "objectID": "talk/index.html#acknowledgements",
@@ -418,5 +418,12 @@
     "title": "Data Science Organizer Burnout",
     "section": "Acknowledgements",
     "text": "Acknowledgements"
+  },
+  {
+    "objectID": "part3/index.html#make-it-easy-for-members-to-contribute-with-activities",
+    "href": "part3/index.html#make-it-easy-for-members-to-contribute-with-activities",
+    "title": "Part 3",
+    "section": "Make it easy for members to contribute with activities",
+    "text": "Make it easy for members to contribute with activities"
   }
 ]
