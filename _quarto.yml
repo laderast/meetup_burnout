@@ -7,11 +7,11 @@ execute:
 
 website:
   title: "Meetup Burnout Minisite"
-  google-analytics: "G-SKN5BS6ZBZ"
   description: "Minisite for my talk on meetup burnout"
   navbar:
     right:
-      - talk/index.qmd
+      - text: Slides
+        href: talk/index.qmd
       - part1/index.qmd
       - part2/index.qmd
       - part3/index.qmd
