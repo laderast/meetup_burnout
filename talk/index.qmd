@@ -1,5 +1,6 @@
 ---
 title: "Data Science Organizer Burnout"
+subtitle: "PositConf 2023"
 author: "Ted Laderas"
 format: 
   revealjs:
