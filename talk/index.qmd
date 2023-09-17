@@ -44,5 +44,6 @@ Share your Burnout Story on Slido
 ## Lightning Talks! {background-image="images/lightning.png" }
 ## Help Each Other! {background-image="images/aggregate.png" }
 ## Sustainable {background-image="images/vision.png" }
-## Join the Conversation! 
+## {background-image="images/acknowledge.png" }
+## Join the Conversation! {background-image="images/question.png" }
 
