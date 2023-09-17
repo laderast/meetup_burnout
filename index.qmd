@@ -5,6 +5,8 @@ format: html
 
 This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It consists of the slides, but also the articles.
 
+![](talk/images/vision.png)
+
 ## Slides
 
 [Slides](/talk/){.btn .btn-primary role="button"}
@@ -25,17 +27,6 @@ This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It co
 - [R Ladies Organization Guide](https://guide.rladies.org/)
 - [Data Science Community Builders](https://colorado.posit.co/rsc/ds-community-builder/receive-recognition.html)
 
-## Data Science Activities
-
-### aggRegate
-
-
-### Data Scavenger Hunts
-
-
-### Watching Videos Together
-
-### A Tidyverse Function I Love
 
 
 ## Acknowledgements
@@ -55,3 +46,9 @@ Special Thanks to:
 - Priyanka Gagneja
 - Natalia Andriychuk
 - Marcos Huerta
+- John David Smith
+- Brittany Barker
+- Marley Buchman
+- Center for Scientific Collaboration and Community Engagement
+- R-Ladies Global
+- rOpenSci

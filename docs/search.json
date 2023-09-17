@@ -25,7 +25,7 @@
     "href": "index.html#acknowledgements",
     "title": "Meetup Burnout: Slides and Resources",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nIf you are a meetup organizer, I salute you. It is hard work.\nSpecial Thanks to:\n\nJulia Stewart-Lowndes\nKate Hertweck\nLibby Heeren\nYanina Saibene\nRachael Dempsey\nDonald Szlosek\nJon Harmon\nEric Nantz\nPriyanka Gagneja\nNatalia Andriychuk\nMarcos Huerta"
+    "text": "Acknowledgements\nIf you are a meetup organizer, I salute you. It is hard work.\nSpecial Thanks to:\n\nJulia Stewart-Lowndes\nKate Hertweck\nLibby Heeren\nYanina Saibene\nRachael Dempsey\nDonald Szlosek\nJon Harmon\nEric Nantz\nPriyanka Gagneja\nNatalia Andriychuk\nMarcos Huerta\nJohn David Smith\nBrittany Barker\nMarley Buchman\nCenter for Scientific Collaboration and Community Engagement\nR-Ladies Global\nrOpenSci"
   },
   {
     "objectID": "talk/index.html",
@@ -425,5 +425,12 @@
     "title": "Part 3",
     "section": "Make it easy for members to contribute with activities",
     "text": "Make it easy for members to contribute with activities"
+  },
+  {
+    "objectID": "part3/index.html#data-science-activities",
+    "href": "part3/index.html#data-science-activities",
+    "title": "Part 3",
+    "section": "Data Science Activities",
+    "text": "Data Science Activities\n\nCo-working and Co-learning: aggRegate\n\n\nLightning Talks\n\n\nWorkshops\n\n\nData Scavenger Hunts\n\n\nWatching Videos Together\n\n\nA Tidyverse Function I Love"
   }
 ]

@@ -26,6 +26,20 @@ By establishing the tone of your meetup, you will actually define the norms for 
 
 ## Make it easy for members to contribute with activities
 
-## Co-working and Co-learning
 
-- aggRegate 
+## Data Science Activities
+
+### Co-working and Co-learning: aggRegate
+
+
+### Lightning Talks
+
+### Workshops
+
+
+### Data Scavenger Hunts
+
+
+### Watching Videos Together
+
+### A Tidyverse Function I Love
