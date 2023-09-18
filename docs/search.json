@@ -389,21 +389,21 @@
     "href": "part3/index.html#grow-by-word-of-mouth",
     "title": "Part 3",
     "section": "Grow by Word of Mouth",
-    "text": "Grow by Word of Mouth\nBy establishing our core group, we started small. Now your group will grow. How does it do this? By positive word of mouth. Invite a couple people to start out with."
+    "text": "Grow by Word of Mouth\nBy establishing our core group, we started small. Now your group will grow. How does it do this? By positive word of mouth. Invite a couple people to start out with.\nAs word gets out, your group will grow and attract more people. If it doesn’t, a small meetup is good too. Don’t compare your meetup to other meetups.\nA vital criteria to grow your meetup is that it should feel psychologically safe for all. Let’s dive into that next."
   },
   {
     "objectID": "part3/index.html#aim-for-pyschological-safety",
     "href": "part3/index.html#aim-for-pyschological-safety",
     "title": "Part 3",
     "section": "Aim for Pyschological Safety",
-    "text": "Aim for Pyschological Safety"
+    "text": "Aim for Pyschological Safety\nLet’s define Psychological Safety:\n\nPsychological safety is being able to show and employ one’s best self without fear of negative consequences of self-image, status, or career\n\nRemember the discussion about vulnerability in Part 1 and the discussion of values in Part 2? This is where we put them together into practice.\nHave you ever been in a meetup where no one is asking questions? Think back to how you felt in that moment. You might have felt unsafe or afraid of being criticized because you thought you had a stupid question.\nThe odds are that a lot of people at that meeting probably felt the same way (they probably had a similar question, but were reluctant to ask as well). That’s because the meeting was not psychologically safe.\nWe should aim for psychological safety for as many people and groups as possible at our meetups. Without psychological safety, your meetup will not grow."
   },
   {
     "objectID": "part3/index.html#welcoming-values-code-of-conduct",
     "href": "part3/index.html#welcoming-values-code-of-conduct",
     "title": "Part 3",
     "section": "Welcoming = Values + Code of Conduct",
-    "text": "Welcoming = Values + Code of Conduct\nIn order to be psychologically safe, your meetup should have a code of conduct. You don’t need to write one from scratch; the R-Ladies Code of Conduct is a great place to start. Codes of conduct are extremely important, because they define what is unacceptable behavior at a meetup. That’s the negative side.\nA code of conduct is not enough. You also need to positively model the values you established as a core group in Part 2. Being conscious of these values is incredibly important, as they set the positive tone for the group. Some of the values of PDX-R are:\n\nLearn Together\nBeginner Friendly\nHave Fun with Data\n\nBy establishing the tone of your meetup, you will actually define the norms for the group, which is the case for groups like R for Data Science. What once seemed artificial will become the norm for the group. But it helps to tactfully remind people of these values early on (“We don’t say just”, “We want to be welcoming of others”)."
+    "text": "Welcoming = Values + Code of Conduct\nIn order to be psychologically safe, your meetup should have a code of conduct. You don’t need to write one from scratch; the R-Ladies Code of Conduct is a great place to start. Codes of conduct are extremely important, because they define what is unacceptable behavior at a meetup. That’s the negative side.\nThere has been a lot written about codes of conduct, so I’ll briefly recap and point you to their writing. Both online and in person meetups have had some sort of harassment. The Code of Conduct defines what is unacceptable behavior, such as harassment (either physical or online) and defines the consequences of that unacceptable behavior.\nHere are a couple of Codes of Conduct to get you inspired.\n\nR Ladies Code of Conduct\nOHSU BioData Club Code of Conduct\nPDX R User Group Code of Conduct\n\nIf at all possible, post the Code of Conduct so others can peruse it.\nWe usually begin our meetups by reading the first paragraph of the meetup, signalling what is unacceptable behavior.\nYou need to have a contact to notify in case there are any breaches of the code of conduct. Our approach is to believe those who contact us. Depending on the severity of the breach, you may ban the breacher from a single meetup, or from the meetup altogether."
   },
   {
     "objectID": "part3/index.html#co-working-and-co-learning",
@@ -432,5 +432,33 @@
     "title": "Part 3",
     "section": "Data Science Activities",
     "text": "Data Science Activities\n\nCo-working and Co-learning: aggRegate\n\n\nLightning Talks\n\n\nWorkshops\n\n\nData Scavenger Hunts\n\n\nWatching Videos Together\n\n\nA Tidyverse Function I Love"
+  },
+  {
+    "objectID": "part3/index.html#positively-express-your-values",
+    "href": "part3/index.html#positively-express-your-values",
+    "title": "Part 3",
+    "section": "Positively Express Your Values",
+    "text": "Positively Express Your Values\nA code of conduct is not enough. You also need to positively model the values you established as a core group in Part 2. Being conscious of these values is incredibly important, as they set the positive tone for the group. Some of the values of PDX-R are:\n\nLearn Together\nBeginner Friendly\nHave Fun with Data\n\nOur values permeate in how we communicate with Meetup members. As an example, when we make an announcement for PDX-R, we always make sure to welcome beginners.\n\n\nThis is tomorrow! (May 18 @ 6:30 PST)If you are wondering what the hubbub is about #quartopub, then come and learn!Beginners especially welcome! #rstats https://t.co/FYZhqThtvR\n\n— PDX R (@pdxrlang) May 17, 2023\n\n\nThese values are also expressed in the activities our group does. Our default activity is aggRegate, where everyone comes in with questions or problems and we try to solve them together. This really helps to empower members (see below section for more info).\nAnother great example comes from the Carpentries Instructor training, which reminds instructors to avoid using the word “just”:\n\n[Don’t] Use the J word (“just”) or other demotivating words we talked about in a previous lesson. These signal to the learner that the instructor thinks their problem is trivial and by extension that they therefore must be deficient if they are not able to figure it out.\n\nInitially, you may have to gently remind individual members about the values of your meetup. Try to do this one on one.\nBy establishing the tone of your meetup, you will actually define the norms for the group, which is the case for groups like R for Data Science. What once seemed artificial will become the norm for the group. But it helps to tactfully remind people of these values early on (“We don’t say just”, “We want to be welcoming of others”)."
+  },
+  {
+    "objectID": "part3/index.html#make-it-easy-to-contribute",
+    "href": "part3/index.html#make-it-easy-to-contribute",
+    "title": "Part 3",
+    "section": "Make it easy to contribute",
+    "text": "Make it easy to contribute\nNow that we’ve defined ways to make it safe for members, let’s talk about some low-risk activities that members can contribute to. Making it easy for members to contribute empowers them and increases group cohesion. It also lessens the burden on organizers.\nI’m going to list some activities here that have worked for us and for other groups in the past. Feel free to use the resources or modify them to work for your group.\n\nCo-working and Co-learning: aggRegate\nThis is our usual monthly activity, where we introduce ourselves and something we’re struggling with. The key with aggRegate is not to be a know-it-all - it’s to learn. The key is that our combined knowledge is greater than our individual knowledge. If I don’t know something, then the odds are that someone else in the group knows it. I’ve learned a lot from these sessions. One of the keys is hold back and let the group answer the questions. That way, it becomes the norm rather than just expecting the answer from one person.\nA related activity is co-working. Co-working is similar, but you don’t have any questions, the goal is just to hang out, do some work, and update each other on what you’re working on.\n\n\nBeginner Office Hours\nIf you want to be especially beginner friendly, you can host a Beginner’s Office Hour where you encourage any and all questions. Some groups have dedicated the first 1/2 hour of their online meetups to these beginning office hours. That way, they can ease into the meetup having met other people in a more relaxed setting.\n\n\nData Scavenger Hunts\nOne fun activity is to explore a dataset together. I’ve built a Shiny data explorer app called {burro} which makes it easy for everyone to explore a dataset together. It’s focused on the descriptives, which at least lets us know some things about the data quality.\nIt can help to have some group goals, such as when we explored a dataset about African Americans and their accomplishments.\nMembers can then team up and try to answer a question or build a visualization, with some time at the end to show their results.\nTidy Tuesday is a great source for these datasets, as is the {fivethirtyeight} package. Do some pre-session exploration in order to ensure that the data is appropriate for the group’s goals.\n\n\nWatching Videos Together\nOne activity that has been successful with very little prep is watching a video together online. When the {gt} package was brand new, our group wanted to learn it, but none of us knew anything about it. So we watched Rich Iannone’s gt talk and did a live chat alongside it. The questions we came up with during our viewing we used for further discussion.\n\n\nA Tidyverse Function I Love\nThe tidyverse is wide and deep. Oftentimes, other people know about a tidyverse function that others don’t. Which is why I started.\n\n\nLightning Talks\n\n\nWorkshops"
+  },
+  {
+    "objectID": "part3/index.html#aim-for-psychological-safety",
+    "href": "part3/index.html#aim-for-psychological-safety",
+    "title": "Part 3",
+    "section": "Aim for Psychological Safety",
+    "text": "Aim for Psychological Safety\nLet’s define Psychological Safety:\n\nPsychological safety is being able to show and employ one’s best self without fear of negative consequences of self-image, status, or career\n\nRemember the discussion about vulnerability in Part 1 and the discussion of values in Part 2? This is where we put them together into practice.\nHave you ever been in a meetup where no one is asking questions? Think back to how you felt in that moment. You might have felt unsafe or afraid of being criticized because you thought you had a stupid question.\nThe odds are that a lot of people at that meeting probably felt the same way (they probably had a similar question, but were reluctant to ask as well). That’s because the meeting was not psychologically safe.\nWe should aim for psychological safety for as many people and groups as possible at our meetups. Without psychological safety, your meetup will not grow."
+  },
+  {
+    "objectID": "part3/index.html#conclusion-make-it-welcoming-and-sustainable",
+    "href": "part3/index.html#conclusion-make-it-welcoming-and-sustainable",
+    "title": "Part 3",
+    "section": "Conclusion: Make it Welcoming and Sustainable",
+    "text": "Conclusion: Make it Welcoming and Sustainable"
   }
 ]

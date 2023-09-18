@@ -5,7 +5,7 @@ format: html
 
 This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It consists of the slides, but also the articles.
 
-![](talk/images/vision.png)
+![What your Meetup Community Can Look Like](talk/images/vision.png)
 
 ## Slides
 
@@ -19,7 +19,7 @@ This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It co
 
 ## Important Resources: Make it Welcoming
 
-- [R for Data Science Community](https://r4ds.slack.com)
+- [R for Data Science Community](https://rfordatasci.com)
 - (CSCCE) Center for Scientific Collaboration and Community Engagement 
     - [Community Participation Model](https://zenodo.org/record/3997802#.X0Ujg5NKh24) 
     - [Being a Scientific Community Manager](https://www.cscce.org/resources/being-a-scientific-community-manager/)

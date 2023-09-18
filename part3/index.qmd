@@ -1,20 +1,54 @@
 ---
 title: "Part 3"
 subtitle: "Make it Welcoming"
+format:
+  html:
+    toc: true
 ---
 
-In our last two sections, we started thinking about making our meetup sustainable with two steps: self-care and building a strong core group. Now let's start talking about how to grow your group by making the tone welcoming.
+> In our last two sections, we started thinking about making our meetup sustainable with two steps: self-care and building a strong core group. Now let's start talking about how to grow your group by making the tone welcoming.
 
 ## Grow by Word of Mouth
 
 By establishing our core group, we started small. Now your group will grow. How does it do this? By positive word of mouth. Invite a couple people to start out with.
 
-## Aim for Pyschological Safety
+As word gets out, your group will grow and attract more people. If it doesn't, a small meetup is good too. Don't compare your meetup to other meetups. 
 
+A vital criteria to grow your meetup is that it should feel psychologically safe for all. Let's dive into that next.
+
+## Aim for Psychological Safety
+
+Let's define Psychological Safety:
+
+> Psychological safety is being able to show and employ one's best self without fear of negative consequences of self-image, status, or career
+
+Remember the discussion about vulnerability in Part 1 and the discussion of values in Part 2? This is where we put them together into practice.
+
+Have you ever been in a meetup where no one is asking questions? Think back to how you felt in that moment. You might have felt unsafe or afraid of being criticized because you thought you had a stupid question. 
+
+The odds are that a lot of people at that meeting probably felt the same way (they probably had a similar question, but were reluctant to ask as well). That's because the meeting was not *psychologically safe*.
+
+We should aim for psychological safety for as many people and groups as possible at our meetups. Without psychological safety, your meetup will not grow. 
 
 ## Welcoming = Values + Code of Conduct
 
 In order to be psychologically safe, your meetup should have a code of conduct. You don't need to write one from scratch; the R-Ladies Code of Conduct is a great place to start. Codes of conduct are extremely important, because they define what is unacceptable behavior at a meetup. That's the negative side.
+
+There has been a lot written about codes of conduct, so I'll briefly recap and point you to their writing. Both online and in person meetups have had some sort of harassment. The Code of Conduct defines what is unacceptable behavior, such as harassment (either physical or online) and defines the consequences of that unacceptable behavior. 
+
+Here are a couple of Codes of Conduct to get you inspired. 
+
+- [R Ladies Code of Conduct](https://rladies.org/coc/)
+- [OHSU BioData Club Code of Conduct](https://biodata-club.github.io/code_of_conduct/)
+- [PDX R User Group Code of Conduct](https://pdxrlang.com/code-of-conduct)
+
+If at all possible, post the Code of Conduct so others can peruse it. 
+
+We usually begin our meetups by reading the first paragraph of the meetup, signalling what is unacceptable behavior.
+
+You need to have a contact to notify in case there are any breaches of the code of conduct. Our approach is to believe those who contact us. Depending on the severity of the breach, you may ban the breacher from a single meetup, or from the meetup altogether. 
+
+## Positively Express Your Values
 
 A code of conduct is not enough. You also need to positively model the values you established as a core group in Part 2. Being conscious of these values is incredibly important, as they set the positive tone for the group. Some of the values of PDX-R are:
 
@@ -22,24 +56,61 @@ A code of conduct is not enough. You also need to positively model the values yo
 - Beginner Friendly
 - Have Fun with Data
 
+Our values permeate in how we communicate with Meetup members. As an example, when we make an announcement for PDX-R, we always make sure to welcome beginners. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is tomorrow! (May 18 @ 6:30 PST)<br><br>If you are wondering what the hubbub is about <a href="https://twitter.com/hashtag/quartopub?src=hash&amp;ref_src=twsrc%5Etfw">#quartopub</a>, then come and learn!<br><br>Beginners especially welcome! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/FYZhqThtvR">https://t.co/FYZhqThtvR</a></p>&mdash; PDX R (@pdxrlang) <a href="https://twitter.com/pdxrlang/status/1658837395515514882?ref_src=twsrc%5Etfw">May 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+These values are also expressed in the activities our group does. Our default activity is aggRegate, where everyone comes in with questions or problems and we try to solve them together. This really helps to empower members (see below section for more info).
+
+Another great example comes from the [Carpentries Instructor training](https://carpentries.github.io/instructor-training/08-motivation.html#first-do-no-harm), which reminds instructors to avoid using the word "just":
+
+> [Don't] Use the J word (“just”) or other demotivating words we talked about in a previous lesson. These signal to the learner that the instructor thinks their problem is trivial and by extension that they therefore must be deficient if they are not able to figure it out.
+
+Initially, you may have to gently remind individual members about the values of your meetup. Try to do this one on one. 
+
 By establishing the tone of your meetup, you will actually define the norms for the group, which is the case for groups like R for Data Science. What once seemed artificial will become the norm for the group. But it helps to tactfully remind people of these values early on ("We don't say just", "We want to be welcoming of others"). 
 
-## Make it easy for members to contribute with activities
+## Make it easy to contribute
 
+Now that we've defined ways to make it safe for members, let's talk about some low-risk activities that members can contribute to. Making it easy for members to contribute empowers them and increases group cohesion. It also lessens the burden on organizers.
 
-## Data Science Activities
+I'm going to list some activities here that have worked for us and for other groups in the past. Feel free to use the resources or modify them to work for your group.
 
 ### Co-working and Co-learning: aggRegate
 
+This is our usual monthly activity, where we introduce ourselves and something we're struggling with. The key with aggRegate is not to be a know-it-all - it's to learn. The key is that our combined knowledge is greater than our individual knowledge. If I don't know something, then the odds are that someone else in the group knows it. I've learned a lot from these sessions. One of the keys is hold back and let the group answer the questions. That way, it becomes the norm rather than just expecting the answer from one person. 
+
+A related activity is co-working. Co-working is similar, but you don't have any questions, the goal is just to hang out, do some work, and update each other on what you're working on. 
+
+### Beginner Office Hours
+
+If you want to be especially beginner friendly, you can host a Beginner's Office Hour where you encourage any and all questions. Some groups have dedicated the first 1/2 hour of their online meetups to these beginning office hours. That way, they can ease into the meetup having met other people in a more relaxed setting.
+
+### Data Scavenger Hunts
+
+One fun activity is to explore a dataset together. I've built a Shiny data explorer app called `{burro}` which makes it easy for everyone to explore a dataset together. It's focused on the descriptives, which at least lets us know some things about the data quality.
+
+It can help to have some group goals, such as when we explored a dataset about African Americans and their accomplishments.
+
+Members can then team up and try to answer a question or build a visualization, with some time at the end to show their results. 
+
+Tidy Tuesday is a great source for these datasets, as is the {fivethirtyeight} package. Do some pre-session exploration in order to ensure that the data is appropriate for the group's goals.
+
+### Watching Videos Together
+
+One activity that has been successful with very little prep is watching a video together online. When the `{gt}` package was brand new, our group wanted to learn it, but none of us knew anything about it. So we watched Rich Iannone's gt talk and did a live chat alongside it. The questions we came up with during our viewing we used for further discussion. 
+
+### A Tidyverse Function I Love
+
+The tidyverse is wide and deep. Oftentimes, other people know about a tidyverse function that others don't. Which is why I started.
 
 ### Lightning Talks
+
+
 
 ### Workshops
 
 
-### Data Scavenger Hunts
+## Conclusion: Make it Welcoming and Sustainable
 
 
-### Watching Videos Together
-
-### A Tidyverse Function I Love

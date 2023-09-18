@@ -1,6 +1,9 @@
 ---
 title: "Part 2"
 subtitle: "Finding Allies and Sponsors"
+format: 
+  html:
+    toc: true
 ---
 
 > I'm going to give a talk at PositConf this year about Data Science meetup burnout and how to make your meetup more sustainable. 
