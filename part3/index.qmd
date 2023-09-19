@@ -102,7 +102,13 @@ One activity that has been successful with very little prep is watching a video 
 
 ### A Tidyverse Function I Love
 
-The tidyverse is wide and deep. Oftentimes, other people know about a tidyverse function that others don't. Which is why I started.
+The tidyverse is wide and deep. Oftentimes, other people know about a tidyverse function that others don't. Which is why I started by asking this on Twitter:
+
+![](tidyverse.png)
+
+And got these responses
+
+![](tidyverse.gif)
 
 ### Lightning Talks
 

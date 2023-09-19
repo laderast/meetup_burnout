@@ -19,13 +19,18 @@ This is a mini-website for my Meetup Burnout talk given at PositConf 2023. It co
 
 ## Important Resources: Make it Welcoming
 
-- [R for Data Science Community](https://rfordatasci.com)
-- (CSCCE) Center for Scientific Collaboration and Community Engagement 
-    - [Community Participation Model](https://zenodo.org/record/3997802#.X0Ujg5NKh24) 
-    - [Being a Scientific Community Manager](https://www.cscce.org/resources/being-a-scientific-community-manager/)
-- [rOpenSci Contributor Guidelines](https://ropensci.org/blog/2022/09/13/contributing-ropensci/)
-- [R Ladies Organization Guide](https://guide.rladies.org/)
-- [Data Science Community Builders](https://colorado.posit.co/rsc/ds-community-builder/receive-recognition.html)
+- [R for Data Science Community](https://rfordatasci.com) - one of the best online communities.
+- (CSCCE) Center for Scientific Collaboration and Community Engagement - Their materials are amazing resources for community building (check their courses out). Some resources that are especially useful:
+    - [Community Participation Model](https://zenodo.org/record/3997802#.X0Ujg5NKh24) - talks about the continuum of communities and what you can work towards.
+    - [Being a Scientific Community Manager](https://www.cscce.org/resources/being-a-scientific-community-manager/) -
+- [rOpenSci Contributor Guidelines](https://ropensci.org/blog/2022/09/13/contributing-ropensci/) - a good example of how to make it easy for your members to contribute
+- [R Ladies Organization Guide](https://guide.rladies.org/) - These materials are amazing, and include lots of information about onboarding, mentoring, and codes of conduct. 
+- [Data Science Community Builders](https://colorado.posit.co/rsc/ds-community-builder/receive-recognition.html) - Rachael Dempsey at Posit runs a data science community builder meetup.
+
+## Activities
+
+- [aggRegate gmail template](https://docs.google.com/document/d/1iVbBfesVrcogmGj-AUgYhRtdeZHDu0PanQfnZnsHrSE/edit?usp=sharing) - we use this to run meetings. There usually is a short (5-10 minute) talk or demo, followed by topics the group wants to discuss. It requires minimal preparation.
+- [Data Scavenger Hunt](https://osf.io/dezr3/) - the basic idea behind a data scavenger hunt is to explore the data together. I have a shiny app builder called {burro} for this that takes you through basic EDA of a dataset.
 
 
 
