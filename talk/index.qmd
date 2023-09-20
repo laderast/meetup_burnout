@@ -44,6 +44,8 @@ Share your Burnout or Meetup Story on Slido
 ## Make it Easy to Contribute {background-image="images/makeiteasy.png" }
 ## Lightning Talks! {background-image="images/lightning.png" }
 ## Help Each Other! {background-image="images/aggregate.png" }
+## {background-image="images/aggregate-example.png" }
+## {background-image="images/burro.png" }
 ## Revisiting the Formula {background-image="images/formula.png" }
 ## Sustainable {background-image="images/vision.png" }
 # Values Become Norms
